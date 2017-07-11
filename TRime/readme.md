@@ -1,4 +1,4 @@
-##Trime
+## Trime
 
 Rime input for Android
 
