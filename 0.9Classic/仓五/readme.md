@@ -1,0 +1,1 @@
+新码表来源: https://github.com/Jackchows/Cangjie5
