@@ -42,3 +42,7 @@ Cangjie-5 sequence for traditional and simplified Chinese characters, more than 
 #### Rime輸入法項目
 
 https://github.com/rime/home/wiki
+
+#### 最新码表
+
+https://github.com/Jackchows/Cangjie5
