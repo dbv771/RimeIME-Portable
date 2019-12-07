@@ -1,0 +1,1 @@
+ย๋ฑํภดิด: https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt
